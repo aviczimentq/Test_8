@@ -15,7 +15,7 @@ function getAttributes() {
     }
     document.getElementById("test1").innerHTML = text;
 }
-/*789*/
+
 function SwapCase(pre) {
     var text = "";
     for (let i = 0; i < pre.length; i++) {
