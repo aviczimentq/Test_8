@@ -15,7 +15,6 @@ function getAttributes() {
     }
     document.getElementById("test1").innerHTML = text;
 }
-/*ghghghgh*/
 function SwapCase(pre) {
     var text = "";
     for (let i = 0; i < pre.length; i++) {
